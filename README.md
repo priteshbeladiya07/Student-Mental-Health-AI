@@ -447,22 +447,6 @@ flowchart TD
 
 ---
 
-## 🔮 Future Improvements
-
-- PostgreSQL database integration
-- Prediction history
-- Authentication
-- Dashboard and analytics
-- SHAP-based explainable AI
-- Model monitoring
-- Cloud deployment
-- CI/CD
-- HTTPS production deployment
-- RAG-based wellness resources
-- Improved safety and crisis-support handling
-
----
-
 ## ⚠️ Disclaimer
 
 This application is for **educational and informational purposes**. The ML score is a wellness indicator and should not be interpreted as a clinical diagnosis. The AI response is not medical advice. Users with serious or immediate concerns should contact a qualified professional or appropriate local emergency/crisis support.
