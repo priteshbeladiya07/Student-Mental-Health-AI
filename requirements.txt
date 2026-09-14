@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+
+pandas
+numpy
+scikit-learn
+joblib
+
+pydantic
+python-dotenv
+
+langchain
+langchain-core
+langchain-mistralai
+langgraph
