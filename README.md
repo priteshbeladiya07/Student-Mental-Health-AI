@@ -106,7 +106,7 @@ flowchart LR
 
 `Mental_Health_Score`
 
-### Models Compared
+## Models Compared
 
 | Model | R² | Training R² | MAE | RMSE |
 |---|---|---|---|---|
@@ -118,6 +118,15 @@ flowchart LR
 
 *Values are from the model-comparison results shown in the project notebook.*
 
+## Model Used
+
+This project uses **Random Forest (Default)** as the final model.
+
+| Metric | Score |
+|---|---|
+| R² | 0.8780 |
+| MAE | 0.3465 |
+| RMSE | 0.4629 |
 ### Evaluation Metrics
 
 - **R²** — measures how well the model explains variation in the target.
