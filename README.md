@@ -108,13 +108,13 @@ flowchart LR
 
 ## Models Compared
 
-| Model | R² | Training R² | MAE | RMSE |
-|---|---|---|---|---|
-| Linear Regression | 0.7398 | 0.7237 | 0.5362 | 0.6760 |
-| Random Forest (Default) | 0.8780 | 0.9809 | 0.3465 | 0.4629 |
-| Random Forest (Tuned) | 0.8652 | 0.9547 | 0.3687 | 0.4865 |
-| XGBoost (Default) | 0.8772 | 0.9752 | 0.3514 | 0.4645 |
-| XGBoost (Tuned) | 0.8492 | 0.9104 | 0.4008 | 0.5146 |
+| Model | R² | MAE | RMSE |
+|---|---|---|---|
+| Linear Regression | 0.7398 | 0.5362 | 0.6760 |
+| Random Forest (Default) | 0.8780 | 0.3465 | 0.4629 |
+| Random Forest (Tuned) | 0.8652  | 0.3687 | 0.4865 |
+| XGBoost (Default) | 0.8772 | 0.3514 | 0.4645 |
+| XGBoost (Tuned) | 0.8492 | 0.4008 | 0.5146 |
 
 *Values are from the model-comparison results shown in the project notebook.*
 
